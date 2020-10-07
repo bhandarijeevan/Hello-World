@@ -16,6 +16,10 @@ int main()
 
     printf("\n Enter the second numbers:");
     scanf("%d",&num2);
+    
+    //to show the num 1 and num 2 values
+    printf("The value of num1 is %d",num1);
+    printf("The value of num2 is %d",num2);
     // calculate sum
     sum=num1+num2;
     printf("\n The sum is %d", sum);
