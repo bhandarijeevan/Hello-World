@@ -1,4 +1,6 @@
 //* write a simple program using Arithmetic operator *//
+//* write a simple program using Arithmetic operator *//
+//* write a simple program using Arithmetic operator *//
 
 #include<stdio.h>
 #include<conio.h>
